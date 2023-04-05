@@ -1,3 +1,3 @@
 # atividade
 
-Jogo simples em Flutter
+Jogo simples de pedra, papel, tesoura em Flutter
